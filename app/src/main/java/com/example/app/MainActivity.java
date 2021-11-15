@@ -28,7 +28,8 @@ public class MainActivity extends AppCompatActivity {
         git.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                gotoUrl("https://github.com/Mujahid6890/app3.git");
+                gotoUrl("https://github.com/Mujahid6890/app3.git")
+                ;
             }
         });
 
